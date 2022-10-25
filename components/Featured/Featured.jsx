@@ -2,7 +2,7 @@ import React from "react";
 import "./style.module.scss";
 
 const Featured = () => {
-  return <div className="featured-section">Featured</div>;
+  return <section className="featured-section">Featured</section>;
 };
 
 export default Featured;

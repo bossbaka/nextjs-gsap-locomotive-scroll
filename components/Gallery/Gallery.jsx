@@ -29,7 +29,7 @@ const images = [
 ];
 
 const Gallery = () => {
-  return <div className="section-wrapper gallery-wrap">Gallery</div>;
+  return <section className="section-wrapper gallery-wrap">Gallery</section>;
 };
 
 export default Gallery;

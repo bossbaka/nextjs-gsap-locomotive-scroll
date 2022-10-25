@@ -1,0 +1,27 @@
+.header_container {
+  position: relative;
+  .header_menu {
+    position: absolute;
+    left: 0;
+    top: 100px;
+    letter-spacing: 1px;
+    font-family: "Syncopate";
+    color: #626262;
+    text-transform: uppercase;
+    padding: 0;
+    li {
+      list-style-type: none;
+      margin: 10px 0;
+    }
+  }
+
+  #header_text {
+    margin: 0;
+    font-size: 20vw;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Bai Jamjuree";
+    font-weight: 600;
+    line-height: 400px;
+  }
+}
